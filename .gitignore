@@ -1,0 +1,11 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+IMG_20180917_183703.jpg
+index.html
+python_intro.py
+design.css
